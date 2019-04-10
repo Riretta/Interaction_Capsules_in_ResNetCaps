@@ -1,4 +1,4 @@
-The BILINEAR CAPSULE model takes the idea from the paper: http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf 
+# The BILINEAR CAPSULE model takes the idea from the paper: http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf <h1> tag
 
 The structure of the model is:
 
