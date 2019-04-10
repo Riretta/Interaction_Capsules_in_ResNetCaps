@@ -23,3 +23,4 @@ The structure of the model is:
 MATRIX PRODUCT:
     1 EUCLIDEAN PRODUCT INNER MATRIX https://en.wikipedia.org/wiki/Inner_product_space
     2 PRODUCT OUTER  MATRIX https://en.wikipedia.org/wiki/Outer_product
+
