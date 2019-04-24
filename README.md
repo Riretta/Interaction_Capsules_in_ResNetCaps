@@ -10,3 +10,10 @@ How many classes: 26
 Image dimensions: 3x256x256
 
 In this folder there are the implementation of the dataloader for the MARVEL dataset and the application of CapsNet with and without ensemble with the Marvel Dataset.
+
+ANIMALS DATASET:
+
+Animal dataset downloaded at  https://cvml.ist.ac.at/AwA2/ 
+50 classi
+26147 immagini di training
+11177 immagini di test
