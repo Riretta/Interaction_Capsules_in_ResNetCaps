@@ -1,4 +1,4 @@
-# NewDatasets_w_CapsuleNet
+# Interaction Among Capsules in ResNet+CapsNet
 
 MARVEL DATASET : *_MARVEL.ipynb
 
